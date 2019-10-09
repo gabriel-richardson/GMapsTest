@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Untitled layer</name>
+    <Style id="icon-1033">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/1033-biz-hardware.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1033-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/1033-biz-hardware.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1033">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1033-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1033-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1551-F9A825">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1551-F9A825">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1551-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1551-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1551-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1556-424242">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-5.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1556-424242">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-5.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1556-424242">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1556-424242-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1556-424242-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1866-DB4436">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1866-DB4436">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1866-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1866-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1866-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1866-DB4436-nodesc">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1866-DB4436-nodesc">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1866-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1866-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1866-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1866-E65100">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1866-E65100">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1866-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1866-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1866-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1866-FF5252">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1866-FF5252">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1866-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1866-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1866-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-22">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-971">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/971-biz-bank-dollar.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-971">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/971-biz-bank-dollar.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-971">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-971-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-971-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Smithville skatepark</name>
+      <description><![CDATA[Designed and built 2005 by Rex Ramps.  Approx. 4000 sq ft street/flow plaza, featuring banks, quarterpipes, hips, a pyramid, manny pads, ledges, a big 7-stair set with handrail, a kicker gap and weird snakerun pump track thing.  One interesting feature is that it's built around a large shade tree, and there's a big grass island and "river" path thru the park and under the pyramid.  Pretty fun and an amazing value at less than $30,000 build budget.  No lights, no rules.]]></description>
+      <styleUrl>#icon-1866-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -97.163303,30.00817,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mabel Davis Skatepark</name>
+      <description><![CDATA[Opened Dec 2005, built by Grindline skateparks.  5000 sq ft bowl, 5'-10' deep, 9000 sq ft street area, plaza-style.  Lights til 10 pm.  Free, no pads required.]]></description>
+      <styleUrl>#icon-1866-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          -97.741789,30.220332,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lakeway Skatepark</name>
+      <description><![CDATA[Opened 2006, built by Grindline Skateparks.  <br>5'-9' peanut pool w/federal stone coping, 5000 sq ft street/flow course, featuring hubba ledge, 1/4 pipes, handrails, pool-style pocket, 3' minibowl.  No lights, no helmet/pads required.]]></description>
+      <styleUrl>#icon-1866-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -97.994885,30.351241,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shayla Dame Skatepark (Round Rock)</name>
+      <description><![CDATA[<img src="https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/g3rv85iujgb2o1c8fdteep6o94/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALq9X6zwvjIJjLqx_HHk2i-LQyA_VPQTIzAeZ_KCehnP434jgUt_FIo1iFG_Wb6UVL_7LNzR0MSsHM8KgkV9o5yu-RfM9hIVFeEc17oCiHwoOlyy2iRJjo73Ye9KvaaD1L6SyGkxfdG4YDSjmgQbc5yBiTArVq3PizN9hECeMcJnnsP3GAyAhCXcwrvqiW4lOEI1zR3Ps-pi8xgKTes_ElEU75s9TCduJm8-eJYflPd8bkA0vufRa7lMbVZC0ILP0plGcH8j0Dfk2meKHsRn3FKgwK1tBQ?fife" height="200" width="auto" /><br><br>Located at Clay Madsen Rec Center. Opened July 2007. 6000 sq ft bowl built by Grindline Skateparks, features 14' cradle, 11' oververt pocket, 9' deep end, 6' shallow, snakerun-style roll-in. 9000 sq ft street course built by Ideal Skateparks, features banked hubbas, hips, rails, ledges, pier 7 granite ledge, pool-style pocket. Lights til 11 pm, no helmets/pads required, free. No BMX allowed.  Update:  Renamed Shayla Dame skatepark in 2010, after 12-year old Shayla was killed by a car, trying to cross the street to get to the park. <br><br><img src="https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/nsi9ujil95cj7lp5411hf13eo0/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALrkRFVzvuyflBteiyCSW5Hgv1DJuL083vfvaBUaNrV0eMuQp3feibLRkgyKdoutYJu9LCZ9_NhEpZMK8Qp9HutoD6AqFrlnpdMIpmvA4MEc3H7x8PVkPwnxuDVWzPnQg6O9joXKbRd6KoiAbQil4SNz-tp8CMw_q-msWurROCC9OZjja4Fa-xB1DwBXqJDhBks-tciycvHsd-0v2iqQOTOB9sXDmBruUxic-bGkwYmc5-RCaJr6kuJtK1kDWUUBNNGJKigJXMNSPz-hbMG10G_a3W3Huw?fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1866-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/g3rv85iujgb2o1c8fdteep6o94/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALq9X6zwvjIJjLqx_HHk2i-LQyA_VPQTIzAeZ_KCehnP434jgUt_FIo1iFG_Wb6UVL_7LNzR0MSsHM8KgkV9o5yu-RfM9hIVFeEc17oCiHwoOlyy2iRJjo73Ye9KvaaD1L6SyGkxfdG4YDSjmgQbc5yBiTArVq3PizN9hECeMcJnnsP3GAyAhCXcwrvqiW4lOEI1zR3Ps-pi8xgKTes_ElEU75s9TCduJm8-eJYflPd8bkA0vufRa7lMbVZC0ILP0plGcH8j0Dfk2meKHsRn3FKgwK1tBQ?fife https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/nsi9ujil95cj7lp5411hf13eo0/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALrkRFVzvuyflBteiyCSW5Hgv1DJuL083vfvaBUaNrV0eMuQp3feibLRkgyKdoutYJu9LCZ9_NhEpZMK8Qp9HutoD6AqFrlnpdMIpmvA4MEc3H7x8PVkPwnxuDVWzPnQg6O9joXKbRd6KoiAbQil4SNz-tp8CMw_q-msWurROCC9OZjja4Fa-xB1DwBXqJDhBks-tciycvHsd-0v2iqQOTOB9sXDmBruUxic-bGkwYmc5-RCaJr6kuJtK1kDWUUBNNGJKigJXMNSPz-hbMG10G_a3W3Huw?fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -97.660636,30.497867,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Marcos Skatepark</name>
+      <description><![CDATA[<img src="https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/c0dcphbpcsatij9kpnlvn8ver4/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALpCPlcq3jU2tFDi-bXC81RIBcGqRKbJkHMlCL_gWg1gvqu-Z1BT8tKvJRe5-gKeBl0EpUwMyzBm4vZvkx3tXtqPftCDcy1XA5I37AATvr9FeCkYXBv8Ky_71CyI9tsVQLbMorg3NgRGW3_7B7ilCGsM37A8U1pA1VDR1DBdd-IqBBUUvsU2WcCygjKnDSyV6WP5Dy_JR0o7Wga_m-Y-Ub9QVfuxQ2R3wWVxcES-1_lDJzkmfAPtnaHVmrE2_tTGcOx89KtcTrAibA9eu_5ORlHGisWfoA?fife" height="200" width="auto" /><br><br>2 phases, street and bowl. Street phase designed & built by Grindline in 2007. Bowl phase designed by Ideal Skateparks, built by Grindline in 2010. 9000 sq ft street plaza with lots of banks and ledges, handrail and hubbas. 7000 sq ft flowbowl, 3'-6' deep, with an 8' banked wall extension. Spine, hips, roll-in, "taco bell" extension. 4'-8' deep kidney pool. Lights until 10 pm. No helmets/pads required. BMX allowed.<br><br><img src="https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/5a0qjskoga4kukolm4u8csoff8/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALoSscno-YQIeGZyjU8RHe2C4th53C42Jy7V-HtmcRVD4WByv8JrdLA3248leIOMNefuqqBfgHeDIMw15ec5a2brvmF60QBU5M2BWz8cxEjfM54inhzbiznLkClqBvUR8zQvHay9hkAHk3XChX6SVOIPSuFlwRqjBkIg_USqpG5RHLZbZHwT0vcRm97oLfy4zUJJcc7D6Z6tozB0ZhFisTYPB88Zfpwk7Smj_MQk43YxqCctF7bOXSC2r54fRzpM5rEzF48JwWB06UEoDeVZUAaGavtdYg?fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1866-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/c0dcphbpcsatij9kpnlvn8ver4/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALpCPlcq3jU2tFDi-bXC81RIBcGqRKbJkHMlCL_gWg1gvqu-Z1BT8tKvJRe5-gKeBl0EpUwMyzBm4vZvkx3tXtqPftCDcy1XA5I37AATvr9FeCkYXBv8Ky_71CyI9tsVQLbMorg3NgRGW3_7B7ilCGsM37A8U1pA1VDR1DBdd-IqBBUUvsU2WcCygjKnDSyV6WP5Dy_JR0o7Wga_m-Y-Ub9QVfuxQ2R3wWVxcES-1_lDJzkmfAPtnaHVmrE2_tTGcOx89KtcTrAibA9eu_5ORlHGisWfoA?fife https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/5a0qjskoga4kukolm4u8csoff8/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALoSscno-YQIeGZyjU8RHe2C4th53C42Jy7V-HtmcRVD4WByv8JrdLA3248leIOMNefuqqBfgHeDIMw15ec5a2brvmF60QBU5M2BWz8cxEjfM54inhzbiznLkClqBvUR8zQvHay9hkAHk3XChX6SVOIPSuFlwRqjBkIg_USqpG5RHLZbZHwT0vcRm97oLfy4zUJJcc7D6Z6tozB0ZhFisTYPB88Zfpwk7Smj_MQk43YxqCctF7bOXSC2r54fRzpM5rEzF48JwWB06UEoDeVZUAaGavtdYg?fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -97.931104,29.88636,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Patterson Park Miniramp</name>
+      <description><![CDATA[<img src="https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/n183gpg7mccfh6kb6nqb0jv8kc/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALouJK31n-P4pus12WDlcTmEEMFvVYMHjbe3N2Dxq33m8x4wwheoRHr8N-YPcWSQmkpeN4czj78IHMBqLZoHw72bKmos6ATTiwD8bhaRSdaF-vz6uOQHiRkUnrZHyg9BtYOh9G37vrbv9gjQkS1FdkyzbIDW4_J52qJzPoQiRHgWR5rb_Umr7762al9f2vbhUd4ir8UhCs0xUOthaQJgWgvcra6zGBJB-JPuvdCRHvEkjHPn-C0xu9_2BrU31irnJ1Pa1RmOiMu1DA4rb4-y-u2JFXeIag?fife" height="200" width="auto" /><br><br>24' wide, 4 1/2' tall concrete miniramp built by Ideal Skateparks as a volunteer project. No lights, no helmets/pads required, BMX friendly. Free to all.]]></description>
+      <styleUrl>#icon-1866-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/n183gpg7mccfh6kb6nqb0jv8kc/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALouJK31n-P4pus12WDlcTmEEMFvVYMHjbe3N2Dxq33m8x4wwheoRHr8N-YPcWSQmkpeN4czj78IHMBqLZoHw72bKmos6ATTiwD8bhaRSdaF-vz6uOQHiRkUnrZHyg9BtYOh9G37vrbv9gjQkS1FdkyzbIDW4_J52qJzPoQiRHgWR5rb_Umr7762al9f2vbhUd4ir8UhCs0xUOthaQJgWgvcra6zGBJB-JPuvdCRHvEkjHPn-C0xu9_2BrU31irnJ1Pa1RmOiMu1DA4rb4-y-u2JFXeIag?fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -97.708856,30.295448,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ernest Eikel Skate Park</name>
+      <styleUrl>#icon-1866-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -98.1407364,29.6848687,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Leander (Benbrook Ranch Skatepark)</name>
+      <description><![CDATA[<img src="https://doc-10-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/2hqrnqpeog5ukb047olsdsnut0/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALrAMUL46jZIy7H6eIAo0vtqHPpuy5zr3K7LKzqPMPSUXSA-LpuPcLLc52mixaPFS8JGxYqY4vFILaMWd8kngLK_9cpFOpoXtxzRcCT5BOqm70-biQMz98sDWpuxwmIlQNRNF8SjLkM_RjOcZVJxVuQs65Oj59L2avYRvjvz7v-HevD4ZePEWswt9GWoMIE-Bd7fb6rd-wVJevgyddyDfassZipBEXwEDGA5rWuE15zj7w7spF4Ialu9qMIwv_TQVhB__kc8I8yCbyw_9SpD7-TjN2kcTw?fife" height="200" width="auto" /><br><br>Designed/built summer/fall 2009 by Ideal Skateparks. 5,000 sq ft, featuring a 1200 sq ft minibowl, 3'-5' deep and a 3800 sq ft street plaza with a cantilevered quarterpipe, pyramid hip, taco, granite hubba, handrail grass gap, various ledges and manual pads, step-up gap and volcano. Lights added June 2015!  No pads/helmet required.<br><br><img src="https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/5q2brbulmu2bf2ilagd7t51lg4/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALoNA3-EpMQSXv0fh2FwuJ4GEz0ZF9D3MRmvp1hStrWo-6QbkDgDhYPDVZq2ZSYDVbHsgrPFO4edsw2gO7jRCOM9Zhmf4LNZ7gCsXs0IP8qPQwb4hg803K-qf6aEnM75wl8tGR5su9FIk6BTk8ZxC8MtXOfIlBtK4E-GIoqMnoHnPnwLcl9BIO73JzsQo7bd0iwIwaS6YqyefLen2hE5CT2twoYmlzn-sT1AYFMkYz9Kcno7x_l3RoIniI6N_ov_bCZkPTzngPOKEulYa88zheqenuuYFA?fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1866-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-10-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/2hqrnqpeog5ukb047olsdsnut0/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALrAMUL46jZIy7H6eIAo0vtqHPpuy5zr3K7LKzqPMPSUXSA-LpuPcLLc52mixaPFS8JGxYqY4vFILaMWd8kngLK_9cpFOpoXtxzRcCT5BOqm70-biQMz98sDWpuxwmIlQNRNF8SjLkM_RjOcZVJxVuQs65Oj59L2avYRvjvz7v-HevD4ZePEWswt9GWoMIE-Bd7fb6rd-wVJevgyddyDfassZipBEXwEDGA5rWuE15zj7w7spF4Ialu9qMIwv_TQVhB__kc8I8yCbyw_9SpD7-TjN2kcTw?fife https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/5q2brbulmu2bf2ilagd7t51lg4/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALoNA3-EpMQSXv0fh2FwuJ4GEz0ZF9D3MRmvp1hStrWo-6QbkDgDhYPDVZq2ZSYDVbHsgrPFO4edsw2gO7jRCOM9Zhmf4LNZ7gCsXs0IP8qPQwb4hg803K-qf6aEnM75wl8tGR5su9FIk6BTk8ZxC8MtXOfIlBtK4E-GIoqMnoHnPnwLcl9BIO73JzsQo7bd0iwIwaS6YqyefLen2hE5CT2twoYmlzn-sT1AYFMkYz9Kcno7x_l3RoIniI6N_ov_bCZkPTzngPOKEulYa88zheqenuuYFA?fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -97.878568,30.588026,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lockhart skatepark</name>
+      <description><![CDATA[<img src="https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/ku0pl92hhghjn0eu1ka4m1hlk0/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALqJEcAv127rH0wunOpY-_qbEQLlUWCaG0q08yZqvc6A31wgegkLWReacfl5huBaxdiam4nGT1K55lXh6zE3LxZsqnXntaEylrXIiTSjqZvSZoet50nuUNefJVJrcERErv8xUmtCR2bnLM53iNjtk21X8yOR-xqE2W2xKR_g6QaJSIlCASzNcgABqXHeMqEDnyX15bxmqaBKHcQoIiHfK05mwEYZ8CgZlndq2eZFT925G_Z8ZN0XyjPOFXE36EOmztn4Wx1OL5ncMnUOoYTxmUbrLv0whg?fife" height="200" width="auto" /><br><br>Designed and built 2009 by Parthenon skateparks. Approximately 7000 sq ft, mostly a big flow bowl with a small street area on the decks. The bowl is 6'-9' deep, with a 10' banked wall extension on one end and a 4'-7' snakerun around the deep end on the other. Cool "taco bell" extension with a window thru it on one sidewall. One really inadequate streetlight on one side, so for all practical purposes, no lights. No helmets/pads required.]]></description>
+      <styleUrl>#icon-1866-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/ku0pl92hhghjn0eu1ka4m1hlk0/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALqJEcAv127rH0wunOpY-_qbEQLlUWCaG0q08yZqvc6A31wgegkLWReacfl5huBaxdiam4nGT1K55lXh6zE3LxZsqnXntaEylrXIiTSjqZvSZoet50nuUNefJVJrcERErv8xUmtCR2bnLM53iNjtk21X8yOR-xqE2W2xKR_g6QaJSIlCASzNcgABqXHeMqEDnyX15bxmqaBKHcQoIiHfK05mwEYZ8CgZlndq2eZFT925G_Z8ZN0XyjPOFXE36EOmztn4Wx1OL5ncMnUOoYTxmUbrLv0whg?fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -97.665936,29.890762,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cedar Park (Brushy Creek Skatepark)</name>
+      <description><![CDATA[<img src="https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/k2krkls7iho6kesm5lpuadbokc/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALqiPzDGQiL-cEVm6fR2sca3Sko3bfqIuTbV93HkDKnmKg7bBbKvs8CcxAqNCb48mjHCkfYJiGRc11z5WqpTaoEE9Hbf-2ZjSWbwRc7Pog7otiHxQx6SB12qjQKtYI9ozlLC8unRwTDZz8hJIuaHDXjpjL4T8E5vlR2ohu32lgDgy9tm4_jj3iryiO3PvHt4FtLeCGK5CmtKroLOE3OjttoM8DDCSDiAeMO_ejlXwko87MpDqv37KrAulwTixmlD_pmfI5dvxvZtlcf1fDTG3p8GgT-U8A?fife" height="200" width="auto" /><br><br>Designed by Newline, built by SPA skateparks, spring 2010. 14,000 sq ft, includes an 8,000 sq ft street plaza, a 5'-7' deep minibowl, and a 6'-9' deep vert bowl with pool coping. Lights til 10 pm, no pads/helmets required.<br><br><img src="https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/36ruhalp87becq0eio365vhhvo/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALpS9zYdrFma3FzZSBVq4xpDmnxwBJJE-I9xEIJoMIBEgQuuqIAa8gUIRo3gn-mV-lHt-pRPhMaPfTmMSVMy9hIeQFFQd4Dobk78ohKvKeMfeoWPcb2gDhojAd2tr_vCKgH0bN8rJ3tR-uoUVAYgkFph9DDTbd1JX76qH-gLCs8aIrDaNI-a409KcdByaGI4N1ARmdoZtJribiDYXngp7Vh6-EDuYPqy0CNQdYPrwb3UIehZN0WEbs-s1JABNdm_MkRUYoh6QLgwsAVPKcCl4q9dnjy30g?fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1866-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/k2krkls7iho6kesm5lpuadbokc/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALqiPzDGQiL-cEVm6fR2sca3Sko3bfqIuTbV93HkDKnmKg7bBbKvs8CcxAqNCb48mjHCkfYJiGRc11z5WqpTaoEE9Hbf-2ZjSWbwRc7Pog7otiHxQx6SB12qjQKtYI9ozlLC8unRwTDZz8hJIuaHDXjpjL4T8E5vlR2ohu32lgDgy9tm4_jj3iryiO3PvHt4FtLeCGK5CmtKroLOE3OjttoM8DDCSDiAeMO_ejlXwko87MpDqv37KrAulwTixmlD_pmfI5dvxvZtlcf1fDTG3p8GgT-U8A?fife https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/36ruhalp87becq0eio365vhhvo/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALpS9zYdrFma3FzZSBVq4xpDmnxwBJJE-I9xEIJoMIBEgQuuqIAa8gUIRo3gn-mV-lHt-pRPhMaPfTmMSVMy9hIeQFFQd4Dobk78ohKvKeMfeoWPcb2gDhojAd2tr_vCKgH0bN8rJ3tR-uoUVAYgkFph9DDTbd1JX76qH-gLCs8aIrDaNI-a409KcdByaGI4N1ARmdoZtJribiDYXngp7Vh6-EDuYPqy0CNQdYPrwb3UIehZN0WEbs-s1JABNdm_MkRUYoh6QLgwsAVPKcCl4q9dnjy30g?fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -97.78199,30.506233,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marble Falls skatepark</name>
+      <description><![CDATA[<img src="https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/4pueolkrffgf9h6hpaqkf12p2g/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALq32pFCpLj6omkL0W5Zvdg7H1ZL7_ygtCPoXEFAD3VrspxOsZvgxzAqMNNKv47XcB2KM4LJg9otuy9L47NsYMCOuJwVBSWE8ZXKysEDUisUBELMfKk9AnmcMwstkCeAMJVoPROmEioxH99pfWS4VLYCn4G4F4avMD69VdBIMIud3femPHb8XRtF6I0njom-4PAwKooqB7Kx6HGaclGsfhF0ag2CnlJSYswV8rhsv_jGvxuCwnHhUjK5oyLnugmCPTLJqZ7YHrudg_xrKzHFXPy1uVWPHQ?fife" height="200" width="auto" /><br><br>Designed and built by Parthenon skateparks, 2010. Approximately 6000 sq ft street/flow park with some unique features, like the "Noose", a looping ribbon, a banked hip with a gap, creating 2 triangular peaks, a bridge, several 6' quarterpipes, including a bowled corner with a deathbox/bridge section, an 8' tall semi-banked wall, and S-shaped spine/slider/hubba thing, and lots of local native granite incorporated into the design. No lights, no helmets/pads required.<br><br><img src="https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/2bgu8gpsquhj7sm2k88l3ao19o/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALrLNwOuji4qo3CrCK66Dg6HTqx_DjNIDJuJYAjZ51dvAEHraf65f3JrH6EXEjVmFD57KM8EjbVBDs2iAv6CRnO8K3WdO4Kdo-gEvwdpeytfsqnjonLAdvVhZ5php7TgAU4nokLu1BTUrks-4Ecd47b5cxpfaw2Q6tF9cwpO1DhUWo8vdY3kbNNsZHw-y8MLzmDuHNMS9F-LlDk6-raIAn4TS-cojHfcnIlwj4KqJCuyyzoh8dsetTFKlw4XboFmdaxaqCi6kIzFxqgVfFK7yzygYw7VKA?fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1866-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/4pueolkrffgf9h6hpaqkf12p2g/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALq32pFCpLj6omkL0W5Zvdg7H1ZL7_ygtCPoXEFAD3VrspxOsZvgxzAqMNNKv47XcB2KM4LJg9otuy9L47NsYMCOuJwVBSWE8ZXKysEDUisUBELMfKk9AnmcMwstkCeAMJVoPROmEioxH99pfWS4VLYCn4G4F4avMD69VdBIMIud3femPHb8XRtF6I0njom-4PAwKooqB7Kx6HGaclGsfhF0ag2CnlJSYswV8rhsv_jGvxuCwnHhUjK5oyLnugmCPTLJqZ7YHrudg_xrKzHFXPy1uVWPHQ?fife https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/2bgu8gpsquhj7sm2k88l3ao19o/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALrLNwOuji4qo3CrCK66Dg6HTqx_DjNIDJuJYAjZ51dvAEHraf65f3JrH6EXEjVmFD57KM8EjbVBDs2iAv6CRnO8K3WdO4Kdo-gEvwdpeytfsqnjonLAdvVhZ5php7TgAU4nokLu1BTUrks-4Ecd47b5cxpfaw2Q6tF9cwpO1DhUWo8vdY3kbNNsZHw-y8MLzmDuHNMS9F-LlDk6-raIAn4TS-cojHfcnIlwj4KqJCuyyzoh8dsetTFKlw4XboFmdaxaqCi6kIzFxqgVfFK7yzygYw7VKA?fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -98.279563,30.569379,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>House Park Skatepark</name>
+      <description><![CDATA[<img src="https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/9bahb9h2a9kbc1f9ni6no0qg5c/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALq2ww1nFSS3dX3U4ceiDh8BDSygs6r0nCVXBYy7hz5qKWdJ6RjPj4rcFDot8tUdZt0LyBxC5EvcLkeFO5wdow5EYlBCCG7gq0bOHKf5XWwzxhnf-SbKjRFWDXytVqPrcN7mg0TJ027MWviT1DFdl_uRLtU7-Or1mCWlbaXnCxIrIe_4M-g6RfXY1BL1a9nqV1CeXZubEQ4Ah2k6crnVTpYo9esFo2uZOR3pLSLM4ZKifEId47BW7r1bdZwO9FKLCt8UZJelRegx1LJ7O4RoxiKXTZW8JA?fife" height="200" width="auto" /><br><br>30,000 sq ft street plaza and bowl, designed by Newline Skateparks, built 2010/11 by California Skateparks. 5000 sq ft flow bowl, 5'-7' deep, with an oververt clamshell 10' tall. 3'-5' tall miniramp/snakerun in one corner of the large street plaza, which features various banks, hips, granite ledges, manny pads, 6- and 9- stair sets with hubbas and handrails, and a couple unique features like an 11' tall oververt steel quarterpipe sculpture and a quarterpipe built into a wall with a doorway to go over. Lights til 10 pm (they're LED and pretty dim; the bowl has bad shadows), no helmets/pads required, BMX friendly, free. No Comply skateshop is stoked to be next door to this...<br><br><img src="https://doc-10-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/vbsefil43b5m6fmc81o4prkl9g/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALrojuQqUdUGnW1x8p7fB--iHmrHFkavGxxNehZK_PCe1IGaDRhtzAgFkDULakflo3Hg4OSGOzyh3PkALtziXB7DHaXi3U0Iycz6AVEqrAVVnUV1IPut686O8-VhlPRqGDZ4v4hSjo2YyoN2qNBkpfA2-rFz5OGW7e1KUOF7VUdBLL8G17t3rEBDXNcQLyL859BzAjfiWMg-95RmacRV4jlC6ExWWGzTPfvvetW4Cmkk6okQcHXb2qEc7dFbWsOqBxgFl4B22JXre7GR1TIZg_UIEcoERw?fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1866-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/9bahb9h2a9kbc1f9ni6no0qg5c/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALq2ww1nFSS3dX3U4ceiDh8BDSygs6r0nCVXBYy7hz5qKWdJ6RjPj4rcFDot8tUdZt0LyBxC5EvcLkeFO5wdow5EYlBCCG7gq0bOHKf5XWwzxhnf-SbKjRFWDXytVqPrcN7mg0TJ027MWviT1DFdl_uRLtU7-Or1mCWlbaXnCxIrIe_4M-g6RfXY1BL1a9nqV1CeXZubEQ4Ah2k6crnVTpYo9esFo2uZOR3pLSLM4ZKifEId47BW7r1bdZwO9FKLCt8UZJelRegx1LJ7O4RoxiKXTZW8JA?fife https://doc-10-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/vbsefil43b5m6fmc81o4prkl9g/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALrojuQqUdUGnW1x8p7fB--iHmrHFkavGxxNehZK_PCe1IGaDRhtzAgFkDULakflo3Hg4OSGOzyh3PkALtziXB7DHaXi3U0Iycz6AVEqrAVVnUV1IPut686O8-VhlPRqGDZ4v4hSjo2YyoN2qNBkpfA2-rFz5OGW7e1KUOF7VUdBLL8G17t3rEBDXNcQLyL859BzAjfiWMg-95RmacRV4jlC6ExWWGzTPfvvetW4Cmkk6okQcHXb2qEc7dFbWsOqBxgFl4B22JXre7GR1TIZg_UIEcoERw?fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -97.748998,30.276909,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cottonwood Shores skatepark</name>
+      <description><![CDATA[<img src="https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/92nqs3vaq1bb8sdufgdk4mv46s/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALoXS5FIrSC1SKrFt7sYYftzpRKdufHMXXo-XLRQIdiURTbbKzHXZVgARW0BQwTiTH9rPau7wyVTNBIALFc7tE9onalmz0u9HnuULQCPSgip4xuB8Lf-nPG7vWvrP2QdTCk9vRVYpbz7qbZBIFod9TFmKvWJlf_lWjuzJYo9PaLNocyiqhnepEvc_J4eLEV2InMnSOrsHZZWEy3_SLjVKLR1u4-yuzKL0dQHMh_wmDzyqNbOsOgfB5YRg0BEHzScFRFcOcmYMc7PscK96FssDA5taGvUjA?fife" height="200" width="auto" /><br><br>Designed & built by Parthenon skateparks in 2011. Approximately 4000 sq ft flow park, 4'-10' tall quarterpipes, with a spine, some small banks and pockets, and incorporating local boulders into the design. Also features a 4'-8' deep pool with a deathbox and loveseat. Pretty harsh trannies and finish in the pool, the flow area is smooth and fast. No lights, no rules.]]></description>
+      <styleUrl>#icon-1866-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/92nqs3vaq1bb8sdufgdk4mv46s/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALoXS5FIrSC1SKrFt7sYYftzpRKdufHMXXo-XLRQIdiURTbbKzHXZVgARW0BQwTiTH9rPau7wyVTNBIALFc7tE9onalmz0u9HnuULQCPSgip4xuB8Lf-nPG7vWvrP2QdTCk9vRVYpbz7qbZBIFod9TFmKvWJlf_lWjuzJYo9PaLNocyiqhnepEvc_J4eLEV2InMnSOrsHZZWEy3_SLjVKLR1u4-yuzKL0dQHMh_wmDzyqNbOsOgfB5YRg0BEHzScFRFcOcmYMc7PscK96FssDA5taGvUjA?fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -98.326878,30.558372,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pflugerville 1 (NE Metro skatepark)</name>
+      <description><![CDATA[<img src="https://doc-10-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/2aisahg5n811glmhtgnr9a7itk/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALouKpGnoz-JPzFDOZfwVWatd_niCEBdAmfeTlGcxUWxritZYZp0RAAuKJ6FtMwyPWMpPBvX-3TvtjXcNPk8D7bLO-7PJBOuYh9I9-y1K64lkllTk5juoVa0sM_PwSKnyjCa70Mj5rxvRtquWZQzSXB66TYGywwPv8dJ4cTT-WTEI06EaWbMGSR5ysxbU66bQ9mne6oEZCQNm6hFxjm8tDxWaeSlx04xLaP93eeZWiuYT-yQqNXc7VDwyV9GkKD7Phc3clYmMc76425jrkfS96Dn5fXf5Q?fife" height="200" width="auto" /><br><br>Designed by Newline, built by Hardcore Shotcrete 2012. 40,000 sq ft. The largest skatepark in Texas at the time of its completion, this park has 2 bowls, 3 different street sections, and a downhill snakerun-style ditch section. The ditch has a channel and a jersey barrier-style extension, the large bowl is 5'-6'-7'-8'-9' deep with 4 bowl pockets and several hips, the smaller bowl is a semi-clover shape, 4'-6'-8' deep, with a roll-in. The street area is broken into an upper plaza, with smaller elements like banks, ledges, manny pads, a small stair set with rails, and a freaky lily-pad dish with manny pads surrounding it. The central section is more tech-oriented, with 5-stair and 9-stair sets with hubbas and rails, step-up gaps, a dragonback ledge, a ledge over a gap, and a kicker-gap. The lower section is more high-speed flow oriented, with a 6--7' bowled end with giant vert extensions to 10' and 13', and a weird amoeba pump bump/volcano thing. Lights until 10 pm, no pads/helmets required, BMX friendly.<br><br><img src="https://doc-10-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/l7ff7vujdrjrsqei80qsjbbup4/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALowBq_ioS3W5iVFFlCmBt86xQDNqGJxqhRDdA0uxXrL3kdlB8iq9Tf1-1bhZTEdN4hVzK5rDEHqvqQwPTvCCyRpjoiEOivSgtaASSh2SUr3V3nSoX4F9b4Y1NmmQW0tHNlmIu5dJCBB_Bhvl0MCet3IndnMi45KjUah0-WSHixVAotSKBS1hKM810mzc6fzMrfkBQV05ex1zg-VDSNA97zlxAm-a4tVyWQGJKmHPL0veXmiQQr_12Nhb-5U7RkbEirH535yK9FX3HCC9q-kN4JWvT7mGg?fife" height="200" width="auto" /><br><br><img src="https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/232in79hc114l9ir7mhekgp3ps/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALoEmt681RjPEf-F-S0ND7-Z33Lc4jnw_4xeEewCE6pXGqsL9Pgkca5oMQU5-MQvAJa86w2jpmgu06xcYlaKQpHKsScraMHMlkq1PNLqn5YuYAk5HKlyB9kDiFP7jZzVD4bpejapM-0IU0MSZ0VhEfS2TevNsWCBim-_h7uMTq3e90l85vciXQZqtB9GFoPY-bV6Bu_yG5v3FLnH2jRR-zIMCSU2we1u5sejl4hoMNws0qKduy1Kyr9DtJkD-dhYxZboCy9uSP3_FEDWJFSi_BBiUu4XHg?fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1866-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-10-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/2aisahg5n811glmhtgnr9a7itk/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALouKpGnoz-JPzFDOZfwVWatd_niCEBdAmfeTlGcxUWxritZYZp0RAAuKJ6FtMwyPWMpPBvX-3TvtjXcNPk8D7bLO-7PJBOuYh9I9-y1K64lkllTk5juoVa0sM_PwSKnyjCa70Mj5rxvRtquWZQzSXB66TYGywwPv8dJ4cTT-WTEI06EaWbMGSR5ysxbU66bQ9mne6oEZCQNm6hFxjm8tDxWaeSlx04xLaP93eeZWiuYT-yQqNXc7VDwyV9GkKD7Phc3clYmMc76425jrkfS96Dn5fXf5Q?fife https://doc-10-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/l7ff7vujdrjrsqei80qsjbbup4/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALowBq_ioS3W5iVFFlCmBt86xQDNqGJxqhRDdA0uxXrL3kdlB8iq9Tf1-1bhZTEdN4hVzK5rDEHqvqQwPTvCCyRpjoiEOivSgtaASSh2SUr3V3nSoX4F9b4Y1NmmQW0tHNlmIu5dJCBB_Bhvl0MCet3IndnMi45KjUah0-WSHixVAotSKBS1hKM810mzc6fzMrfkBQV05ex1zg-VDSNA97zlxAm-a4tVyWQGJKmHPL0veXmiQQr_12Nhb-5U7RkbEirH535yK9FX3HCC9q-kN4JWvT7mGg?fife https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/232in79hc114l9ir7mhekgp3ps/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALoEmt681RjPEf-F-S0ND7-Z33Lc4jnw_4xeEewCE6pXGqsL9Pgkca5oMQU5-MQvAJa86w2jpmgu06xcYlaKQpHKsScraMHMlkq1PNLqn5YuYAk5HKlyB9kDiFP7jZzVD4bpejapM-0IU0MSZ0VhEfS2TevNsWCBim-_h7uMTq3e90l85vciXQZqtB9GFoPY-bV6Bu_yG5v3FLnH2jRR-zIMCSU2we1u5sejl4hoMNws0qKduy1Kyr9DtJkD-dhYxZboCy9uSP3_FEDWJFSi_BBiUu4XHg?fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -97.597282,30.405822,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Buda (Jackson Norris skatepark)</name>
+      <description><![CDATA[<img src="https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/nee7oj6qd2naf0h28b7orq3gi4/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALpJ54S53D2WHBOyxMW6KHTJlMFFFXyVxAatGlHOBxxkSmEi84j8OPuRDqmCyQJ4i62XvgtkOXY6Pdmx4VaTS5iwkY64pUOHXi0h8yiGpURkVAfQ5Lq2EYZtU0QtnF6yySJLWGjLNAFTAYnN1IrEUcMI5jWkj18kMwaCzSVDDT1QZ5KOT-Qdp1D_J0OPlu9_nCh6HO-gWajpVhyBN9lwxVnFEBrDLbxEVfetfuz2bOzlhiBD2m8--k8dI9wMxw4-FBvHAhXew9wbGcdssPUctIaGylAOPg?fife" height="200" width="auto" /><br><br>Designed by ASD, built by Who Skates, 2013. 8000 sq ft street plaza with a half bowl in one corner, 4-6' tall. Features various quarterpipes, banks, stairsets with hubbas and handrails, ledges, a kicker gap, flat bar and manny pads. Lights added July 2015!  No helmets/pads required. Free.]]></description>
+      <styleUrl>#icon-1866-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/nee7oj6qd2naf0h28b7orq3gi4/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALpJ54S53D2WHBOyxMW6KHTJlMFFFXyVxAatGlHOBxxkSmEi84j8OPuRDqmCyQJ4i62XvgtkOXY6Pdmx4VaTS5iwkY64pUOHXi0h8yiGpURkVAfQ5Lq2EYZtU0QtnF6yySJLWGjLNAFTAYnN1IrEUcMI5jWkj18kMwaCzSVDDT1QZ5KOT-Qdp1D_J0OPlu9_nCh6HO-gWajpVhyBN9lwxVnFEBrDLbxEVfetfuz2bOzlhiBD2m8--k8dI9wMxw4-FBvHAhXew9wbGcdssPUctIaGylAOPg?fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -97.845215,30.075965,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pflugerville 2 (Bohls skatepark)</name>
+      <description><![CDATA[<img src="https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/in04tk6q9desudbmmgp1saqf7s/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALrBzQp3nG_2bRC43GZawMd0zDcWUqXPDu6B09nuAmL8_lCn_0pLfrp5I6dCatrCEMtd7MAAGHphZUTgpnQ3sUwb-XB3gtPi_KFnQEogFYwSCO4C68pLQYonfZiI3w8Plw6HqK_BRuzDpBW98dydkuBqAwfIDyVGY4oNFrfgf4Nm6wz9J76j1L4VGg7G_44mv38seVLyzyHWxutwUkBoZ1cevRkgYxO86MmcHX3okGb3mRdr3ga5jowOPFMz35k0l5-a62VUECC6UJBn4uc_Ic1k26QLGg?fife" height="200" width="auto" /><br><br>Designed by Grindline, built by Misiano Skateparks, 2014. A small hybrid park, trying to cram a handrail & step-up gap into a small 4' tall half bowl with a 6' extension. Sort of works, sort of doesn't, definitely fun but somewhat limited and easily crowded if more than 4 people are present. No lights, no helmets/pads required. Good warm-up spot for the big park down the road.]]></description>
+      <styleUrl>#icon-1866-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/in04tk6q9desudbmmgp1saqf7s/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALrBzQp3nG_2bRC43GZawMd0zDcWUqXPDu6B09nuAmL8_lCn_0pLfrp5I6dCatrCEMtd7MAAGHphZUTgpnQ3sUwb-XB3gtPi_KFnQEogFYwSCO4C68pLQYonfZiI3w8Plw6HqK_BRuzDpBW98dydkuBqAwfIDyVGY4oNFrfgf4Nm6wz9J76j1L4VGg7G_44mv38seVLyzyHWxutwUkBoZ1cevRkgYxO86MmcHX3okGb3mRdr3ga5jowOPFMz35k0l5-a62VUECC6UJBn4uc_Ic1k26QLGg?fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -97.612249,30.43294,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Marcos Pump Track</name>
+      <description><![CDATA[Built 2015.  Concrete prefab by SOLO Ramps/ARC.  Maybe 1500-2000 sq ft?  A little 3' tall, 3' wide pump track with bowled corners, pump bumps, and a small ledge/manny pad in the center.  Fun warm up spot, and a good workout.  No lights.]]></description>
+      <styleUrl>#icon-1866-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -97.9357767,29.8739178,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Michael Thomas Raetzsch Skatepark</name>
+      <styleUrl>#icon-1866-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -97.9783447,29.5766482,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Johnson City Skatepark</name>
+      <description><![CDATA[<img src="https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/23rtu3mog4vhia0t2jg4pc05j8/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALpzAcAFSMDpdH_ODnjjGUWN8H_DIij833KLAmRZYRyr0blpi9Z01Gn5Tw2ogIHN980wp2eqPn3zUNLZzJ6-nInJMyF9kj0n9K8r9qNLtHMXBYDNL9v268uR4QFJ-bnsJiyE5XdR_UR11eVbz21cc9_w6KEZAT1QrZEYLcEVmnWfBJ1ZBQ1c011p9PXo8lAYT7ErKC36m17Pxov9fadh2KwBnvA7_jXSqd1UMvj36FM_2obwOjtDbTtLnNxiJg-ZqkmjOygg-GiZa8OgwCc599Ej4yNxvw?fife" height="200" width="auto" /><br><br>Opened April 2017, designed & built by Evergreen Skateparks.  5000 sq ft, all one tranny/flow area, with a small linear street area along the sidewalk leading into the park.  Great covered picnic area, bathrooms, public pool next door.  No lights.<br><br><img src="https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/12aja3ob534sinch7r51du45l4/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALpaVhzsyy0jTQfBZXG8a7OtLdCxDnEvmNt7vBjlTiIA493kjcH9NxQreL_ekWaZwF5hoUQWvSn8xo1L3IrLWrqoImvYlwmwNXASf4JhIIMFrbiFLJuhAPHzqWiLh32QMYOAiXelZDuRv8dqXyJs7gjd7pHXWXiZFzOBvLfd183E9zl7xHy6OLkxXtk2iUKMl7ZQ122f-2qoNLNnfswqyb2uaAyT5wBTA3vPymul5SIf4LfTV7O1OU5dUnxL47XqmpbbgewgoG0UEvWIUzgGKawDGMT54g?fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1866-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/23rtu3mog4vhia0t2jg4pc05j8/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALpzAcAFSMDpdH_ODnjjGUWN8H_DIij833KLAmRZYRyr0blpi9Z01Gn5Tw2ogIHN980wp2eqPn3zUNLZzJ6-nInJMyF9kj0n9K8r9qNLtHMXBYDNL9v268uR4QFJ-bnsJiyE5XdR_UR11eVbz21cc9_w6KEZAT1QrZEYLcEVmnWfBJ1ZBQ1c011p9PXo8lAYT7ErKC36m17Pxov9fadh2KwBnvA7_jXSqd1UMvj36FM_2obwOjtDbTtLnNxiJg-ZqkmjOygg-GiZa8OgwCc599Ej4yNxvw?fife https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/12aja3ob534sinch7r51du45l4/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALpaVhzsyy0jTQfBZXG8a7OtLdCxDnEvmNt7vBjlTiIA493kjcH9NxQreL_ekWaZwF5hoUQWvSn8xo1L3IrLWrqoImvYlwmwNXASf4JhIIMFrbiFLJuhAPHzqWiLh32QMYOAiXelZDuRv8dqXyJs7gjd7pHXWXiZFzOBvLfd183E9zl7xHy6OLkxXtk2iUKMl7ZQ122f-2qoNLNnfswqyb2uaAyT5wBTA3vPymul5SIf4LfTV7O1OU5dUnxL47XqmpbbgewgoG0UEvWIUzgGKawDGMT54g?fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -98.4071374,30.2852155,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Texas Skateboarding Club</name>
+      <description><![CDATA[Private skate camp, open to the public for sessions.  Street course, miniramp, all skatelite.  Constantly planning & adding new elements.<br>13317 Fitzhugh Rd<br>Austin, Texas, TX 78737<br>(866) 465-7073<br>texasskateboardingclub.com]]></description>
+      <styleUrl>#icon-971</styleUrl>
+      <Point>
+        <coordinates>
+          -98.0006218,30.2311137,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Crockett Ditch</name>
+      <description>Another natural ditch (with a wallride), improved by local DIY (jersey barrier).</description>
+      <styleUrl>#icon-1551-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          -97.793781,30.213319,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5-Hip Ditch</name>
+      <description>A natural ditch (with 5 hips), improved by local skaters doing DIY additions, including ledges, 1/4 pipe, and jersey barrier.  Low bust potential.</description>
+      <styleUrl>#icon-1551-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          -97.79204,30.215389,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Austin High Ditch</name>
+      <description>A drainage ditch next to Austin High School, improved with DIY additions. Shallow but fun. This spot has been heavily featured in national skate media.</description>
+      <styleUrl>#icon-1551-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          -97.765478,30.270706,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Waller planter quarter</name>
+      <description>Another Dream Detroyer creation, using an existing planter box to frame a small quarterpipe.  Fun hit for 5 minutes.Footage here: http://youtu.be/y0gVSNQq6eg?t=2m29s</description>
+      <styleUrl>#icon-1551-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          -97.733576,30.258175,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cemetery quarters</name>
+      <description>Nice little DIY spot in the alley next to Oakwood cemetery.  Two small, connected quarterpipes with parking block coping, and a funky ledge going down the alley.</description>
+      <styleUrl>#icon-1551-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          -97.726833,30.274725,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jungle ditch</name>
+      <description>Kinda overgrown, kinda hard to skate, but with a rad DIY quarterpipe added, this spot has potential.  Someone dig up that pool in the apartment complex next door!</description>
+      <styleUrl>#icon-1551-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          -97.712137,30.316889,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Circle K DIY Ditch</name>
+      <description>This has been around for as long as I can remember. Someone made a roll in to the ditch to go over the pipes, can you go over both? Its fun for 30 45 min or so.</description>
+      <styleUrl>#icon-1551-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          -97.928068,30.398733,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-FAN ditch</name>
+      <description><![CDATA[Longtime San Marcos skatespot.  Weird multi-level ditch, 3'-7' deep, with some DIY additions; steel pipe slider bar/rail on one wall, curbs, cinderblock wallride extension.  Michael Sieben can skate this spot better than you.]]></description>
+      <styleUrl>#icon-22</styleUrl>
+      <Point>
+        <coordinates>
+          -97.887095,29.932306,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Turkey Bowl</name>
+      <description>Ditch on private property. Walk in.</description>
+      <styleUrl>#icon-22</styleUrl>
+      <Point>
+        <coordinates>
+          -97.890164,30.207682,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Y Ditch</name>
+      <description><![CDATA[Also known as Alexandria Ditch (after the street it's on).  Longtime Austin skate spot.  A 5' deep ditch that branches into 2 sections, one with a bowled end.  Unofficially Michael Sieben's favorite spot.]]></description>
+      <styleUrl>#icon-22</styleUrl>
+      <Point>
+        <coordinates>
+          -97.844962,30.201664,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lizard Ditch</name>
+      <description><![CDATA[Longtime Austin skate spot.  a 3' deep ditch that waterfalls into a 7' deep ditch with a spine. Has appeared in several national skate magazines and videos.  Check out the other section, just a block away.]]></description>
+      <styleUrl>#icon-22</styleUrl>
+      <Point>
+        <coordinates>
+          -97.755562,30.174513,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lizard Ditch 2</name>
+      <description><![CDATA[The shallower section of the Lizard Ditch, this is a 3' deep ditch with 2 hips (from a side ditch intersecting) and a fence wallride.  Check the other section, with the spine, a block away.]]></description>
+      <styleUrl>#icon-22</styleUrl>
+      <Point>
+        <coordinates>
+          -97.752724,30.173713,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Mountain's Mountain]]></name>
+      <description>A 1/2 bowl-shaped ditch; longtime Austin skate spot.  You gotta walk down the tracks to get here.</description>
+      <styleUrl>#icon-22</styleUrl>
+      <Point>
+        <coordinates>
+          -97.799223,30.205763,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Westgate Hips</name>
+      <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/f_pUqNdXi7QqTGPA7APN_Sl6yvp1r7y-xtx8CzESdA-BeAmGz15mkHhtdMmyZQP5xECtKA3lKteTF90jiMJV22Vf8m8aEKQQejbzUel4kzCpYQ" height="200" width="auto" /><br><br>A large bank with two big hips, under the freeway overpass at Westgate Blvd. A bit high-risk (traffic), but some good jumps.]]></description>
+      <styleUrl>#icon-22</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh5.googleusercontent.com/proxy/f_pUqNdXi7QqTGPA7APN_Sl6yvp1r7y-xtx8CzESdA-BeAmGz15mkHhtdMmyZQP5xECtKA3lKteTF90jiMJV22Vf8m8aEKQQejbzUel4kzCpYQ</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -97.80054,30.232499,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Westgate Pyramid</name>
+      <description>A simple pyramid at the base of a freeway column.  Not much to it, but an interesting natural spot.  Low bust potential.</description>
+      <styleUrl>#icon-22</styleUrl>
+      <Point>
+        <coordinates>
+          -97.796044,30.23306,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Banister Ditch</name>
+      <description>This ditch drops in several sections, has a channel gap to jump, and has several DIY improvements, most notably a 1/4 pipe in the middle of one bank.  UPDATE: The DIY elements have been destroyed.  The original ditch is still rideable.</description>
+      <styleUrl>#icon-22</styleUrl>
+      <Point>
+        <coordinates>
+          -97.7769578,30.2270814,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Target ski-jump</name>
+      <description>Steep drop-in to ski-jump over a grass gap; This spot has been featured in national skate media.  Low-bust potential.</description>
+      <styleUrl>#icon-22</styleUrl>
+      <Point>
+        <coordinates>
+          -97.79098,30.232801,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Best Banks</name>
+      <description><![CDATA[A natural hip in the parking area of a professional building.  Named for the Best department store that used to be next door.  Longtime Austin skate spot, heavily covered in national skate media.  You've probably seen this one on video at some point...]]></description>
+      <styleUrl>#icon-22</styleUrl>
+      <Point>
+        <coordinates>
+          -97.700697,30.32123,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Burlington ditch</name>
+      <description><![CDATA[Longtime ditch spot.  In the mid/late 90's, this ditch didn't have the fence along the back side, so you could roll in from the parking lot and launch out the other side.  Someone needs to make that happen again.  The ditch is mostly about 4' deep, but gets deeper as it goes downhill around the back of the pool hall.  This would be a great spot to add some DIY improvements.]]></description>
+      <styleUrl>#icon-22</styleUrl>
+      <Point>
+        <coordinates>
+          -97.709114,30.328321,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fungus ditch</name>
+      <description><![CDATA[A long, steep ditch about 6-7' deep, with DIY trannies added at the bottom, and a large ledge at the top of one side.  Longtime spot in north Austin.]]></description>
+      <styleUrl>#icon-22</styleUrl>
+      <Point>
+        <coordinates>
+          -97.743317,30.360099,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>S Ditch</name>
+      <description>This had a great hip. The houses built up around it is a bust, still there though, might be able to skate it for a min before the crazy lady comes out screaming.</description>
+      <styleUrl>#icon-22</styleUrl>
+      <Point>
+        <coordinates>
+          -97.763498,30.439918,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Target Bowl!</name>
+      <description>Big Wheels needed! Very rough! If only it was smooth! The gate has spots to get in.</description>
+      <styleUrl>#icon-22</styleUrl>
+      <Point>
+        <coordinates>
+          -97.714891,30.361815,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>County Glen Ditch</name>
+      <description>You can roll into it from the street. Pretty fun Ditch</description>
+      <styleUrl>#icon-22</styleUrl>
+      <Point>
+        <coordinates>
+          -97.850084,30.549448,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cypress Banks</name>
+      <description>mellow bank, nothing awesome but its cool to check out</description>
+      <styleUrl>#icon-22</styleUrl>
+      <Point>
+        <coordinates>
+          -97.822478,30.49672,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lakeline Ditch</name>
+      <description>Hit it and quit it. Is a bust but fun for a min or two</description>
+      <styleUrl>#icon-22</styleUrl>
+      <Point>
+        <coordinates>
+          -97.85535,30.526034,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Metric Banks</name>
+      <description>This place is fun, the fence is newer but its still rad!</description>
+      <styleUrl>#icon-22</styleUrl>
+      <Point>
+        <coordinates>
+          -97.713462,30.380628,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CedarPark Bowl</name>
+      <description><![CDATA[This Bowl is fun for a while, the fence wasn't there a while ago so you could Ollie in and out but its still worth a barge.]]></description>
+      <styleUrl>#icon-22</styleUrl>
+      <Point>
+        <coordinates>
+          -97.821264,30.507242,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Car Wash Ditch</name>
+      <description>Ditch by the Car Wash, fun little roll in.</description>
+      <styleUrl>#icon-22</styleUrl>
+      <Point>
+        <coordinates>
+          -97.77729,30.444309,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mcneil High School Steps</name>
+      <description>Perfectly spaced stair set with ledges.</description>
+      <styleUrl>#icon-22</styleUrl>
+      <Point>
+        <coordinates>
+          -97.73393,30.448192,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>No Comply Skateshop</name>
+      <description><![CDATA[Originally co-owned by pro skater Jake Nunn and brothers Elias and Simon Bingham, No Comply has become a staple of the Austin skate scene.  Check their website; it's good.<br><br>www.nocomplyatx.com<br><br>812 W. 12th St.<br>Austin, TX 78701<br>(512) 804-0472]]></description>
+      <styleUrl>#icon-1033</styleUrl>
+      <Point>
+        <coordinates>
+          -97.749036,30.276337,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apparition Skateboards</name>
+      <description><![CDATA[A local, core skateshop that actually supports the local scene and organizes events and contests.  Great, wide selection of boards and gear, with great shop decks, and a miniramp out back.  Go see Troy!<br>119 N Loop Boulevard East<br>Austin, TX 78751<br>(512) 459-7827<br>apparitionskateboards.com‎]]></description>
+      <styleUrl>#icon-1033</styleUrl>
+      <Point>
+        <coordinates>
+          -97.72155,30.317627,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Buda Skate</name>
+      <description><![CDATA[Locally-owned shop across the street from Buda skatepark.  Surprisingly good and large selection for a small town shop.  Check 'em out.<br><br>503 South Loop 4<br>Buda, TX 78610<br><br>(512) 295-0298<br>budaskate.com (http://maps.google.com/local_url?dq=Buda+Skate&q=http://www.budaskate.com/&oi=miw&sa=X&ct=miw_link&cd=1&cad=homepage,cid:2056567633125512977&ei=bckqVPu6N4mTgQSpsoDIDw&s=ANYYN7lRtwjX2eqV1KXaeqvDlYnqSwi1yg)]]></description>
+      <styleUrl>#icon-1033</styleUrl>
+      <Point>
+        <coordinates>
+          -97.844481,30.07575,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Texas Skate</name>
+      <description><![CDATA[San Marcos' premiere (and only!) skate shop.  Good dudes, supporting the local scene.  <br>225 N CM Allen Pkwy<br>San Marcos, Texas 78666<br>http://www.txsk8.com]]></description>
+      <styleUrl>#icon-1033</styleUrl>
+      <Point>
+        <coordinates>
+          -97.9373954,29.8854717,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Carve skateshop</name>
+      <description><![CDATA[Locally-owned shop focusing on the longboard/downhill/slalom crew. If you're looking for serious downhill gear, or a crew of guys to go really fast with, this is the place to go. Zac Sharp carries the best selection and can skate faster than you. He's a good guy, go check out his scene:  <br>www.carvelongboards.com<br><br>EDIT:  Zac moved his shop to East Cesar Chavez, and opened another one in Houston.  He closed the Austin shop in 2016; the Houston one is still going.‎]]></description>
+      <styleUrl>#icon-1033</styleUrl>
+      <Point>
+        <coordinates>
+          -97.706818,30.219243,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mustache Skateboards</name>
+      <description><![CDATA[CLOSED in 2010.  Round Rock's premier skate shop, just a block from Clay Madsen skatepark.<br><br>www.mustacheskateboards.com<br><br>1011 Gattis School Road<br>Round Rock, TX 78664<br>(512) 535-0745]]></description>
+      <styleUrl>#icon-1033</styleUrl>
+      <Point>
+        <coordinates>
+          -97.66629,30.495648,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Find-n-Grind Skateshop</name>
+      <description><![CDATA[CLOSED in 2010.  Home of Brown Skateboards.  A local, core skateshop.<br><br>www.myspace.com/findngrindsk8shop<br><br>306 e 53rd st<br>austin, TX 78751<br>(512) 535-4646]]></description>
+      <styleUrl>#icon-1033</styleUrl>
+      <Point>
+        <coordinates>
+          -97.719548,30.317048,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Octagon</name>
+      <description><![CDATA[DIY spot by the Dream Destroyers, RIP 2014.  An octagonal slab exists for no apparent reason at the top of a short hill behind a strip mall.  The Dream Destroyers added trannies bit by bit, making a pretty cool spot within a year or so, but the shop owners in the strip mall weren't cool with skaters hanging out here.  Bummer.]]></description>
+      <styleUrl>#icon-1556-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -97.865582,30.23241,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stoner Ramp</name>
+      <description>A vert Ramp in the woods with a roll in. This was skated by some of the greats back in the 80s Its gone now.</description>
+      <styleUrl>#icon-1556-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -97.8252,30.450897,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shanendoah Vert Ramp</name>
+      <description>Another lost soul. 12 foot wide 10 feet tall. I found this riding my bike around and was the first vert ramp I ever dropped in on! RIP</description>
+      <styleUrl>#icon-1556-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -97.820436,30.473324,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dillo Skate Park</name>
+      <description>Early 90s Skate Park With the Mother Earth Vert Ramp. zoom in close and you can still see the remains of the ramp. Inside was the single coping spine ramp and a wood bowl with a street course. This park was skated by many greats and was in a couple of Videos.</description>
+      <styleUrl>#icon-1556-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -97.665659,30.35203,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Power Plant Skate Park </name>
+      <description>Through the 90s Power Plant skate park was a staple in the Scene. Indoor Vert ramp, and 8 foot with pool coping and one of the coolest upstair mini ramps ever. I miss this Park!</description>
+      <styleUrl>#icon-1556-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -97.68913,30.433597,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Austin Public Skatepark 1.0 (Explorer Post 999)</name>
+      <description><![CDATA[RIP 1996.  In the spring of 1995, our efforts at petitioning the city to create a public skatepark started to pay off, when the city gave us the parking lot of the old Parks & Rec building on Dawson road, which was slated for demolition.  We had to get insurance for it somehow, so we joined the Boy scouts as an Explorer Post (they wouldn't let us have 666, so we chose 999), and it was run as a members-only sign-in skatepark.  We spent several months adding ramps bit by bit, and it was turning into something pretty cool over the summer of 1995.  Then some 8-year old kid, who wasn't a member, broke his arm there and his parents sued the city.  Rather than prosecuting them for child endangerment or trespassing, the city closed the park and confiscated all our ramps, demolishing them after a few months of arresting kids for jumping the fence to skate the park they helped build.  Laaaaaaaaaaaaaaaame.]]></description>
+      <styleUrl>#icon-1556-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -97.7555108,30.2619029,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Austin Public Skatepark 2.0 (Clarksdale Park)</name>
+      <description><![CDATA[RIP 2000(I think?).  After the disaster of the Dawson road Explorer Post, the city tried again to answer the skateboard community's requests for a park, and provided us with the old tennis court at the Clarksdale park, which we again built out ourselves, using our own money and labor.  This one lasted a couple years, until we built out an entire wall with transitions, and the city closed the park.  Not sure if it was a coincidence, but once again, we didn't get our ramps back.  The city pretty quickly opened their third attempt at a public skatepark at House park- again, on an old tennis court with wooden ramps- right where the current concrete skatepark now stands.]]></description>
+      <styleUrl>#icon-1556-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -97.7573562,30.277229,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rhino Bowl</name>
+      <description><![CDATA[RIP 2005.  The first large-scale DIY project attempted by Austin's combined skate/bmx scene, this bowl could've been Austin's Burnside.  Doug King dug out a footprint, and the locals used discarded railroad ties and old tires froma junkyard to frame up retaining walls, and hand-dug and shaped dirt trannies to form a 6' deep bowl.  We had just started tying rebar and were ready for our first pour when the local powers discovered our work.  One morning, the city showed up with 2 backhoes, and took just 30 minutes to undo our 2 months of work.  But the spark had been set...]]></description>
+      <styleUrl>#icon-1556-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -97.694432,30.262028,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Haunted Hilltop</name>
+      <description><![CDATA[RIP 2007.  The Dream Destroyers built a small 3' tall miniramp on this slab, with the best view of any skatepark in the region, but it was doomed by the forces of greed planning a new condo project on this spot.  Hopefully the new resdients are haunted by the eerie sounds of grinding trucks each night...Footage here: http://youtu.be/y0gVSNQq6eg?t=3m11s]]></description>
+      <styleUrl>#icon-1556-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -97.732452,30.267722,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Skatepark of Austin</name>
+      <description><![CDATA[RIP 2002-2008.  Home of the 69 Bowl, SPA was a 20,000 sq ft indoor skatepark that helped organize the Austin skate scene in the mid-2000's and spawned SPA skateparks.  Featured a large, ever-changing street area, a 4'-7' minibowl with oververt pocket, and the famous 69 bowl, a 6'-9' deep, 80' long bowl that many considered the best wooden bowl in the world.  I miss this place.]]></description>
+      <styleUrl>#icon-1556-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -97.68131,30.335408,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Red River Slab</name>
+      <description><![CDATA[RIP 2008 (2009?).  DIY street course built on an abandoned slab; included several cinderblock ledges & manny pads, a few small banks and quarters, and a well-built flatbar rail anchored into the slab.  Eventually fell to the condos, like so much of this neighborhood.  ]]></description>
+      <styleUrl>#icon-1556-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -97.7398682,30.2597159,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Banana Farm</name>
+      <description><![CDATA[RIP 2008. Ordinarily, I'd never post the location of a private backyard ramp, but this place was epic, it's gone now, and the property sold. Pretty much the best spot ever. If you got to ride it, you know. If not, you missed out big time. <br>https://www.youtube.com/watch?v=9FrZUELO9ZU]]></description>
+      <styleUrl>#icon-1556-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -97.736443,30.329664,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grinder Ledge (Bastrop pool)</name>
+      <description><![CDATA[One of 3 spots commonly called "Bastrop pool" back in the 70's and 80's, this was a 1940's-era pool, totally square/no trannies, except for the 10' deep end, which had 5' tall banks to a 5' tall vert wall, with a curb/lip at the top of the bank, so you could grind the curb or launch into wallrides.  In 2004, a crew of Austin locals, led by Doug King, started adding DIY features to the pool in the 4'-5' deep shallow end.  Starting with a 4' quarterpipe, they added a 6' quarter, a pyramid, a weird corner bank, a railroad rail as a slider bar, and began planning to complete all the empty walls of the pool, with the blessing of the local officials, when it was discovered that the pool was actually on private property.  The landowner was cool for a while, but eventually demolished the DIY stuff and filled in the pool.  RIP 2009.]]></description>
+      <styleUrl>#icon-1556-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -97.299643,30.185672,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Country Club (Bastrop pool #2)</name>
+      <description><![CDATA[This was one of the famous "Bastrop pools" of the 1980's.  A large 1940's-era community pool, it was 4'-12' deep, with steep banked walls instead of normal trannies.  The deep end was probably 70 degrees, with mellow trannies at the bottom, and spit-gutter coping.  After laying dormant for the 90's, it had a brief resurgence in the mid-2000's before the owners filled it in.  RIP 2009.]]></description>
+      <styleUrl>#icon-1556-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -97.299594,30.199698,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alien Pod</name>
+      <description><![CDATA[RIP 2010.  A renegade DIY project on an existing slab by the RR tracks.  Weird and gnarly.  Fun spot.  Be respectful, clean up after yourself, offer to help build if they're building.]]></description>
+      <styleUrl>#icon-1556-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -97.708293,30.284604,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Broken Neck</name>
+      <description><![CDATA[RIP 2011.  A miniramp, music club/performance space, art gallery, and punk commune/boarding house, the Broken Neck is one of the Austin skate/music scene's hidden gems, and for an underground, DIY venue, one of its worst-kept secrets.  Ask for Dirty John if you go, be respectful, and bring beer.  The ramp is the remains of Patty's ramp, a longtime vert ramp in Austin.]]></description>
+      <styleUrl>#icon-1556-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -97.703696,30.251306,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Psycho Ditch</name>
+      <description><![CDATA[So named because of its proximity to the Texas State (mental) Hospital, this longtime Austin skate spot has been extensively featured in the national skate media.  A shallow ditch with a roll-in channel and a wallride.  Fell to the bulldozer blade of "progress" with the redevelopment of the Triangle in the late 2000's.  RIP 2011.]]></description>
+      <styleUrl>#icon-1556-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -97.735029,30.312325,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Legoland</name>
+      <description><![CDATA[RIP 2012.  DIY spot, mostly built by David Reynolds from Parthenon skateparks.  An abandoned construction boneyard full of stacks of concrete slabs, this spot used to get skated as a series of elevated gaps, but in 2009 or so, the skaters started pouring trannies up some of the stacks, creating a really cool unique spot.  As with most DIY, it couldn't last; blown-out sessions and a cranky motel owner next door spelled certain death.]]></description>
+      <styleUrl>#icon-1556-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -97.835728,30.235705,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Toilet bowl</name>
+      <description><![CDATA[<img src="https://doc-0k-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/ob93u1fa95eamj13nf5i0ael7c/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALqZbW-AcwykBoherCROTPwfU8h-LqYPjimwkKKO7NGgc7MBAN1XqbDX-E75zZm5HFSUWQc_XoUb5RSJ3BA2MU89xY_pjE8OH_wIujIgOo_353nMCBU-yuiFaLB0FqsdXkMLShnps5FGBcX7r-uw67IrSCYyQ4ZYv_lKnivxVUzEN5o_YsnZdnZmwbutS1KGIpFetfhpksFZH1QfJkv-00k914Q1DhcZ09Ol8CtHnQvZmZnFIrMiOOph_39JZHtRPC_i70zIXImrYVzf-4HFLjzpJYmDAg?fife" height="200" width="auto" /><br><br>RIP 2013. This spot, so named because it resembled a toilet bowl, lasted less than a full year. Whoever designed this city-built ditch must have liked skaters, because it had decent trannies for no good reason. Hopefully this architect does some more sneaky work like this, and we don't blow it out next time...]]></description>
+      <styleUrl>#icon-1556-424242</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-0k-44-mymaps.googleusercontent.com/untrusted/hostedimage/rsl69u9gfknvgq0038hfk77igc/ob93u1fa95eamj13nf5i0ael7c/1569952800000/3jIQ8injIORiN0UJcci9yTyuCOovbxuk/06147474602764598223/1AF2TALqZbW-AcwykBoherCROTPwfU8h-LqYPjimwkKKO7NGgc7MBAN1XqbDX-E75zZm5HFSUWQc_XoUb5RSJ3BA2MU89xY_pjE8OH_wIujIgOo_353nMCBU-yuiFaLB0FqsdXkMLShnps5FGBcX7r-uw67IrSCYyQ4ZYv_lKnivxVUzEN5o_YsnZdnZmwbutS1KGIpFetfhpksFZH1QfJkv-00k914Q1DhcZ09Ol8CtHnQvZmZnFIrMiOOph_39JZHtRPC_i70zIXImrYVzf-4HFLjzpJYmDAg?fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -97.746685,30.331359,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Slaughter Creek DIY</name>
+      <description><![CDATA[RIP 2013.  The Dream Destroyers' finest creation, this beauty had Burnside-style transitioned pillars, a shallow-end-style pocket up against a banked wall, and a beautiful, perfect clamshell-style 6-7' bowl pocket with river rock coping.  Nothing gold can stay...]]></description>
+      <styleUrl>#icon-1556-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -97.791474,30.152901,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
