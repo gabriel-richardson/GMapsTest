@@ -20,47 +20,56 @@ class ViewController: UIViewController {
         self.view = mapView
 
         // Find kml and parse
-        let path = Bundle.main.path(forResource: "KML/doc", ofType: "kml")
+        let path = Bundle.main.path(forResource: "doc", ofType: "kml")
         let url = URL(fileURLWithPath: path!)
         let kmlParser = GMUKMLParser(url: url)
         kmlParser.parse()
-        
+
+        // Put styles in hash map with ID
         var styles: [String: GMUStyle] = [:]
         for style in kmlParser.styles {
             styles.updateValue(style, forKey: style.styleID)
         }
-        
+
+        // Match -normal and -highlight IDs to regular ID
+        // e.g. convert <"icon-1033-normal", Style> to <"icon-1033", Style>
+        for styleMap in kmlParser.styleMaps {
+            let style = styles.removeValue(forKey: styleMap.pairs[0].styleUrl)!
+            styles.updateValue(style, forKey: styleMap.styleMapId)
+        }
+
         // Set the map's bounds by adding each coordinate
         var bounds = GMSCoordinateBounds()
         for mark in kmlParser.placemarks {
             let point = mark.geometry as! GMUPoint
             bounds = bounds.includingCoordinate(point.coordinate)
-            
-//            // Custom marker creation because styles weren't working
-//            let placemark = mark as! GMUPlacemark
-//            let markerStyle = styles[placemark.styleUrl!]
-//            let marker = GMSMarker(position: point.coordinate)
-//            marker.title = placemark.title
-//            marker.snippet = placemark.snippet
-//            marker.icon = UIImage(named: (markerStyle?.iconUrl)!)
-//            marker.map = mapView
-        }
 
+            // Custom marker creation because GMUStyles don't work
+            let placemark = mark as! GMUPlacemark
+            let markerStyle = styles[placemark.styleUrl!]
+            let marker = GMSMarker(position: point.coordinate)
+            marker.title = placemark.title
+            marker.snippet = placemark.snippet
+            // Parse description markup
+            if let str = placemark.snippet {
+                // Remove the break tags after images
+                var subString = str.replacingOccurrences(of: "/><br><br>", with: ">")
+                subString = subString.replacingOccurrences(of: "<br><br><", with: "<")
+                // Replace break tags with new lines
+                subString = subString.replacingOccurrences(of: "<br>", with: "\n")
+                // Remove image tags
+                subString = subString.replacingOccurrences(of: "\\s?\\<[^>]*\\>", with: "", options: .regularExpression)
+                marker.snippet = subString
+            }
+            // Remove the images
+            let icon = (markerStyle?.iconUrl)!.components(separatedBy: "/")[1]
+            marker.icon = UIImage(named: icon)
+            marker.map = mapView
+        }
+        
         // Fit camera to bounds with padding
         let update = GMSCameraUpdate.fit(bounds, withPadding: 50.0)
         mapView.animate(with: update)
-
-        // Render the kml, this doesn't display icons
-        let renderer = GMUGeometryRenderer(map: mapView,
-                                           geometries: kmlParser.placemarks,
-                                           styles: kmlParser.styles)
-        renderer.render()
     }
 }
-
-/*
- 
- We may need to parse the kml data and make each marker with title/desc separately if we want to have custom display
- 
- */
 
